@@ -1,0 +1,22 @@
+{
+  "name": "mypixijsgame",
+  "version": "1.0.0",
+  "description": "my pixi game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PookaSDC/mypixijsgame.git"
+  },
+  "keywords": [
+    "pixijs"
+  ],
+  "author": "sdc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PookaSDC/mypixijsgame/issues"
+  },
+  "homepage": "https://github.com/PookaSDC/mypixijsgame#readme"
+}
